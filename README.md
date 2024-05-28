@@ -37,7 +37,3 @@ This project aims to analyze and predict heart attacks using machine learning te
 - **README.md**: This file, providing an overview of the project.
 - **heart.csv**: Dataset file.
 - **heart_attack_prediction.ipynb**: Jupyter notebook containing the code for data preprocessing, EDA, model training, evaluation, and interpretation.
-
-## Instructions for Running the Code
-1. Ensure you have Python installed on your system.
-2. Install the required libraries listed in `requirements.txt` using pip:
